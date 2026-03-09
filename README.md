@@ -116,7 +116,7 @@ This dashboard supports:
 ## 🔗 Power BI Service Report
 
 👉 **Live Interactive Dashboard:**  
-[Link](https://app.powerbi.com/groups/me/reports/43768f14-3096-4682-bfb3-5e0c9b3fa7e9/849b0408fa61823a3bc3?experience=power-bi)
+[Open Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMTA4MDkxNDUtZjg1My00N2Q1LWJiNWMtODA2MTAzN2MzNTU0IiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
 
 ---
 
